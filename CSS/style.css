@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    margin: 20px;
+    background: #F8C8DC;
+}
+
+.aotcc{
+    background: #7286A0;
+    color: white;
+    margin-top: 250px;
+}
+
+#aotc{
+    color: #F8C8DC;
+}
+
+
+#base{
+    background: #F8C8DC;
+    color: #000;
+}
+
+#height{
+    background: #F8C8DC;
+    color: #000;
+}
+
+#convertButton{
+    background: #F8C8DC; 
+}
+
+#result{
+    font-size: 20px;
+    margin-top: 20px;
+}
